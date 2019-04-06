@@ -1,9 +1,1 @@
-# Spectral-Residual-with-MultiResolution-Analyis
-!!ALGORITHM 
-1\Luminance feature\Color feature\Direction feature;
-2\Pyramiy of multiResolution;
-3\Spectral residual with resolution pyramid;
-4\add all components of different feature;
-5\add different resolution saliency map of feature;
-6\choose the best feature with kmeans ,judging from  the center of kmeans;
-7\get the saliency map with kmeans gathering salient points;
+<div><div># Spectral-Residual-with-MultiResolution-Analyis</div><div>!!ALGORITHM&nbsp;</div><div>1\Luminance feature\Color feature\Direction feature;</div><div>2\Pyramiy of multiResolution;</div><div>3\Spectral residual with resolution pyramid;</div><div>4\add all components of different feature;</div><div>5\add different resolution saliency map of feature;</div><div>6\choose the best feature with kmeans ,judging from&nbsp; the center of kmeans;</div><div>7\get the saliency map with kmeans gathering salient points;</div></div><div><br></div>
